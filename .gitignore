@@ -1,0 +1,7 @@
+*.log
+*.dat
+*.pdf
+*.png
+*~
+env/
+guietta/
