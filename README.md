@@ -2,7 +2,6 @@
 
 ## Ramp up COVID-19 testing using frugal devices: CD/DVD drives
 
-This is a proof-of-concept for hackster project at https://www.hackster.io/laserx/diagnostics-via-disc-5793c0 for [The COVID-19 Detect &amp; Protect Challenge](https://www.hackster.io/contests/UNDPCOVID19)
 
 ![GUI screenshot](doc/gui.gif)
 
